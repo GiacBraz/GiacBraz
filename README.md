@@ -1,4 +1,4 @@
-# Hi there, I'm Giacomo Brazzorotto! 👋
+# Hi there, I'm Giacomo! 👋
 
 I am an *Analytics & Digital Transformation Professional* with over 6 years of experience in the MedTech EMEA sector. 
 I specialize in business requirements gathering, analysis, and translating complex business needs into technical solutions.
@@ -24,21 +24,21 @@ An application designed to automate complex commercial quotes from text-based ca
 - **My Role:** Conceived the logic flow, designed the database architecture, and integrated AI APIs.
 - **Tech Stack:** Python, Streamlit, Anthropic Claude API (Function Calling), SQLite, SQLAlchemy, Regex.
 - **Key Feature:** Extracts codes, price lists, and costs dynamically from raw text to generate formatted PDF quotes.
-- 🔗 **[Explore Repository](https://github.com/GiacBraz/NOME-REPOSITORY-PROGETTO1)**
+
 
 ### 2. Sports Events Aggregator Web App
 An interactive Single-Page Application (SPA) for unifying global calendars.
 - **My Role:** Product Manager. Defined data architecture and UI/UX, overseeing code generation via AI agents.
 - **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Antigravity AI Agent, Vercel.
 - **Key Feature:** Real-time interactive calendar with strict type-safety and automated CI/CD deployment.
-- 🔗 **[Explore Repository](https://github.com/GiacBraz/NOME-REPOSITORY-PROGETTO2)**
+
 
 ### 3. Property Management Web Platform
 An end-to-end web application for property management and real-time booking tracking.
 - **My Role:** End-to-end product creation, translating business booking requirements into a cloud architecture.
 - **Tech Stack:** Next.js, React, Supabase (PostgreSQL), TypeScript, Node.js, Vercel.
 - **Key Feature:** Cloud database synchronization with secure, real-time user authentication.
-- 🔗 **[Explore Repository](https://github.com/GiacBraz/NOME-REPOSITORY-PROGETTO3)**
+
 
 ---
 
