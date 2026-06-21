@@ -1,4 +1,4 @@
-# Hi there, I'm Giacomo! 👋
+# Hi there, I'm Giacomo
 
 I am an *Analytics & Digital Transformation Professional* with over 6 years of experience in the MedTech EMEA sector. 
 I specialize in business requirements gathering, analysis, and translating complex business needs into technical solutions.
@@ -7,7 +7,7 @@ Beyond my core work in Business Intelligence, I act as an *AI Product Creator*, 
 
 ---
 
-## 🛠️ Core Skills
+## Core Skills
 
 - **Business Analysis & PM:** Requirements Gathering, Feasibility Studies, Agile (Jira, Asana), Stakeholder Management, UAT.
 - **Data & BI:** Tableau (Dashboard Design, Reporting, Visualization), SQL Logic & Querying (Snowflake).
@@ -16,7 +16,7 @@ Beyond my core work in Business Intelligence, I act as an *AI Product Creator*, 
 
 ---
 
-## 🚀 Featured AI-Assisted Projects
+## Featured AI-Assisted Projects
 *Explore the codebases and architectures of my public projects below.*
 
 ### 1. B2B Quoting Automation Platform & AI Sales Assistant
