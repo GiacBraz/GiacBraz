@@ -16,7 +16,7 @@ Beyond my core work in Business Intelligence, I act as an *AI Product Creator*, 
 
 ---
 
-## Featured AI-Assisted Projects
+## Featured AI-Assisted Projects (private)
 *Explore the codebases and architectures of my public projects below.*
 
 ### 1. B2B Quoting Automation Platform & AI Sales Assistant
@@ -26,14 +26,14 @@ An application designed to automate complex commercial quotes from text-based ca
 - **Key Feature:** Extracts codes, price lists, and costs dynamically from raw text to generate formatted PDF quotes.
 
 
-### 2. Sports Events Aggregator Web App
+### 2. Sports Events Aggregator Web App (public)
 An interactive Single-Page Application (SPA) for unifying global calendars.
 - **My Role:** Product Manager. Defined data architecture and UI/UX, overseeing code generation via AI agents.
 - **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Antigravity AI Agent, Vercel.
 - **Key Feature:** Real-time interactive calendar with strict type-safety and automated CI/CD deployment.
 
 
-### 3. Property Management Web Platform
+### 3. Property Management Web Platform (public)
 An end-to-end web application for property management and real-time booking tracking.
 - **My Role:** End-to-end product creation, translating business booking requirements into a cloud architecture.
 - **Tech Stack:** Next.js, React, Supabase (PostgreSQL), TypeScript, Node.js, Vercel.
